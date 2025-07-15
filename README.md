@@ -1,9 +1,5 @@
 # Flashcard App
 
-## DEMO
-
-[Watch the demo video](https://raw.githubusercontent.com/yugalkaushik/assignment-prodinit/blob/main/assets/demo.mp4)
-
 ### APIs
 Create flashcard
 ![Screenshot](./assets/api-2.png)
