@@ -1,6 +1,14 @@
 # Flashcard App
 
-## Quick Start
+## DEMO
+
+https://github.com/user-attachments/assets/demo.mp4
+
+### APIs
+Create flashcard
+![Screenshot](./assets/api-2.png)
+Delete Flashcard
+![Screenshot](./assets/api-1.png)
 
 ### Backend Setup (Django)
 
@@ -22,4 +30,3 @@ npm run dev
 ```
 
 Frontend runs on: http://localhost:5173
-
