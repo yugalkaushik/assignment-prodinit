@@ -2,7 +2,7 @@
 
 ## DEMO
 
-https://github.com/user-attachments/assets/demo.mp4
+[Watch the demo video](https://raw.githubusercontent.com/yugalkaushik/assignment-prodinit/main/assets/demo.mp4)
 
 ### APIs
 Create flashcard
