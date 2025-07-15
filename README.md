@@ -1,5 +1,10 @@
 # Flashcard App
+### DEMO
+1. Open the link
+2. Click on View Raw
+3. Download the video file to view it.
 
+https://github.com/yugalkaushik/assignment-prodinit/blob/main/assets/video.mp4
 ### APIs
 Create flashcard
 ![Screenshot](./assets/api-2.png)
